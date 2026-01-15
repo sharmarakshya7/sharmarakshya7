@@ -23,23 +23,23 @@
 
 ---
 
-# Hey there 👋 I'm **Rakshya Sharma**
+# Hey there I'm **Rakshya Sharma**
 
 ### Full-Stack Java Engineer | Spring Boot | Angular | AWS
 
 ---
 
-## 👨‍💻 About Me
-- 💼 **Software Engineer** with hands-on experience building **enterprise-grade financial platforms**
-- ☕ Strong in **Java 17, Spring Boot 3.x, REST APIs, Microservices**
-- 🌐 Frontend experience with **Angular, TypeScript, SCSS**
-- ☁️ Cloud-native development using **AWS (ECS, EC2, RDS, S3), Docker, CI/CD**
-- 📊 Currently working on a **Financial Data Reporting Platform** for credit & risk analytics
-- 🎯 Actively preparing for **Senior Software Engineer** roles
+##  About Me
+-  **Software Engineer** with hands-on experience building **enterprise-grade financial platforms**
+-  Strong in **Java 17, Spring Boot 3.x, REST APIs, Microservices**
+-  Frontend experience with **Angular, TypeScript, SCSS**
+- Cloud-native development using **AWS (ECS, EC2, RDS, S3), Docker, CI/CD**
+- Currently working on a **Financial Data Reporting Platform** for credit & risk analytics
+- Actively preparing for **Senior Software Engineer** roles
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 ### Backend
 `Java 17` `Spring Boot` `Spring Security` `JPA / Hibernate`  
@@ -59,7 +59,7 @@
 
 ## 💼 Professional Experience
 
-### 🏦 Fitch Ratings — Software Engineer  
+###  Fitch Ratings — Software Engineer  
 **Feb 2024 – Present**
 - Built **Spring Boot microservices** for financial data ingestion & reporting
 - Implemented **Kafka consumers & DLQs** for resilient data pipelines
@@ -71,7 +71,7 @@
 ---
 
 
-### 📊 Carta — Software Engineer 
+###  Carta — Software Engineer 
 **2023 - 2024**
 - Assisted in backend feature development using **Java and Spring Boot**
 - Built and enhanced **REST APIs** supporting equity and cap-table workflows
@@ -81,7 +81,7 @@
 
 ---
 
-### 🏬 Lowe’s — Software Engineer  
+###  Lowe’s — Software Engineer  
 **2022 – 2023**
 - Developed enterprise applications using **Java, Spring Boot, and RESTful APIs**
 - Implemented backend services supporting **inventory and order management systems**
@@ -90,28 +90,17 @@
 - Collaborated cross-functionally with QA, product, and frontend teams
 
 
-## 📜 Certifications
-- ☁️ **AWS Developer – Associate**
-- ☕ ** Java Certification**
+##  Certifications
+-  **AWS Developer – Associate**
+- ** Java Certification**
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakshyaSharma&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshyaSharma&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 2025 Goals
-- 🚀 Master **Spring Boot performance & scalability**
-- ☁️ Deepen **AWS architecture & Terraform**
-- 🤖 Integrate **AI/ML features** into backend systems
-- 🧑‍🏫 Mentor junior developers
+##  2025 Goals
+- Master **Spring Boot performance & scalability**
+- Deepen **AWS architecture & Terraform**
+- Integrate **AI/ML features** into backend systems
+-  Mentor junior developers
 
 ---
 

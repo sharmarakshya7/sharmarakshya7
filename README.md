@@ -1,6 +1,6 @@
 <!-- ================= HEADER GIF ================= -->
 <p align="center">
-  <img src="./assets/coding.gif" width="500" alt="Coding Animation" />
+  <img src="./assets/coding.gif" width="250" alt="Coding Animation" />
 </p>
 
 <!-- ================= BUTTONS ================= -->
